@@ -1,0 +1,1 @@
+﻿create table lpu(branch varchar(20),section varchar(10),Reg_NO numeric(20));
